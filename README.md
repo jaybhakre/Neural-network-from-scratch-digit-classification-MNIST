@@ -43,7 +43,8 @@ matplotlib
 1. Clone this repository:
 ```bash
 git clone <repository-url>
-cd mnist-digit-classification
+cd Neural-network-from-scratch-digit-classification-MNIST
+
 ```
 
 2. Install required packages:
